@@ -122,7 +122,7 @@
         	        <img src="./img/imagem1.png">
         	        <p><b>Lorem Ipsum is simply</b></p>
         	        <p>Lorem Ipsum is simply dummy text of the printing and typesetting of the
-                    industry. Lorem
+                    industry. Lorem 
                     Ipsum has been
                     the and scrambled it.
                     atype specimen
